@@ -2730,7 +2730,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(75,75,75,0.95);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -2933,7 +2933,7 @@
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #4c5c96;
+			background: #757575;
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
